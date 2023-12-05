@@ -3888,6 +3888,7 @@
 			}
 
 		}
+		
 
 /* Flexgrid */
 
@@ -4227,3 +4228,7 @@
 			}
 
 		}
+		
+		#three section {display:none}
+		#four section {display:none}
+		#footer section {display:none}
